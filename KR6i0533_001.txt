@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:00.863501
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:53
 #+TITLE: 佛說懈怠耕者經
 #+PROPERTY: CBETA_ID T17n0827
 #+PROPERTY: ID KR6i0533
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 827
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0533_T_001-0870b> 
 #+PROPERTY: JUAN 1
 ¶
-No.827¶
-
- 《佛說懈怠耕者經》¶
+No. 827¶
+《佛說懈怠耕者經》¶
 ¶
 宋沙門惠簡譯¶
 
@@ -40,8 +39,8 @@ No.827¶
 滿、畜生思善、人民求度、諸天龍神神聽道¶
 法。
 
-賢者阿難解了七應義法時節，身與他¶
-人即詣佛所，長跪叉手，白佛言：「何因笑？既笑，¶
+賢者阿難解了七應——義、法、時、節、身與他¶
+人——即詣佛所，長跪叉手，白佛言：「何因笑？既笑，¶
 會當有意。」
 
 佛告阿難：「汝見犁者不？」
